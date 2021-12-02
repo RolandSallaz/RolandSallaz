@@ -8,6 +8,6 @@
 ## Контакты
 >email: machodin@yandex.ru
 >
->vk: vk.com/id117621940
+>vk: [vk.com/id117621940](vk.com/id117621940)
 >
 >telegram: +7-981-133-35-71
