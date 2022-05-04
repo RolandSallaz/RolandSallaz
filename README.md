@@ -3,7 +3,7 @@
 ## О себе
 >frontend разработчик , люблю верстать и делаю игры на Unity
 >
->Мой стек : HTML, CSS, JS, React, БЭМ, Node, express
+>Мой стек : HTML, CSS, JS, React, БЭМ, Node, express, TypeScript и Redux
 
 ## Контакты
 >email: machodin@yandex.ru
