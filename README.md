@@ -10,4 +10,4 @@
 >
 >vk: [vk.com/id117621940](https://vk.com/id117621940)
 >
->telegram: +7-981-133-35-71
+>telegram: [@RSallaz](https://t.me/RSallaz)
