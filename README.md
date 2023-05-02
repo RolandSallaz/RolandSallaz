@@ -32,7 +32,7 @@
 
 
 <picture>
-  <img alt="github-snake" style="margin:auto" src="https://raw.githubusercontent.com/RolandSallaz/RolandSallaz/97eeb315c7c548e7bba5af51cdabdb0c8730c0ad/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" style="margin:auto" src="https://github.com/RolandSallaz/RolandSallaz/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 
