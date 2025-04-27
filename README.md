@@ -28,17 +28,8 @@
   <ul style="list-style:none; padding-left: 30px;">
     <li style="margin-bottom: 10px;">email: machodin@yandex.ru</li>
     <li style="margin-bottom: 10px;"><a href="https://t.me/RSallaz" target="_blank">Telegram</a></li>
-    <li style="margin-bottom: 10px;"><a href="https://vk.com/id117621940" target="_blank">VK</a></li>
   </ul>
 </details>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RolandSallaz/RolandSallaz/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RolandSallaz/RolandSallaz/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" style="margin:auto" src="https://github.com/RolandSallaz/RolandSallaz/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
 
 ## Моё портфолио ⬇
 
